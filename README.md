@@ -2,11 +2,16 @@
 ---
 **Unsupervised Learning | K-Means Clustering | PCA | DecodeLabs Data Science Internship, Batch 2026**
 ---
-"C:\Users\ADMiN\Desktop\Machine Learning\Projects\tfidf_features.png"
-"C:\Users\ADMiN\Desktop\Machine Learning\Projects\confusion_matrices.png"
-"C:\Users\ADMiN\Desktop\Machine Learning\Projects\eda_plot.png"
-"C:\Users\ADMiN\Desktop\Machine Learning\Projects\model_comparison.png"
+<div align="center">
 
+![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Classification-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Imbalanced-Learn](https://img.shields.io/badge/Imbalanced--Learn-SMOTE-FF6B6B?style=for-the-badge&logo=python&logoColor=white)
+![Random Forest](https://img.shields.io/badge/Random%20Forest-Ensemble-228B22?style=for-the-badge&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)
+![Batch](https://img.shields.io/badge/Batch-2026-blue?style=for-the-badge)
+---
 Discover hidden customer segments in unlabeled retail data using distance-based clustering, and translate the results into actionable, marketing-ready personas.
 
 ---
@@ -80,7 +85,3 @@ jupyter notebook Customer_Segmentation_Project_3.ipynb
 - Distance-based clustering (K-Means)
 - Cluster validation (Elbow Method, Silhouette Score)
 - Business intelligence translation — turning statistical output into actionable strategy
-
-
-
----
